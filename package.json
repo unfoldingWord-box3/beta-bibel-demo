@@ -10,7 +10,7 @@
     "@mui/icons-material": "^5.16.2",
     "@mui/material": "^5.16.2",
     "@mui/styles": "^5.16.2",
-    "@oce-editor-tools/base": "0.1.31-beta.15",
+    "@oce-editor-tools/base": "0.1.31-beta.16",
     "classnames": "^2.5.1",
     "create-react-class": "^15.7.0",
     "date-fns": "^3.6.0",
