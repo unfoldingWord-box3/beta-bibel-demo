@@ -49,7 +49,7 @@ const BiblePlanDatePicker = (props) => {
 
   return (
     <DatePicker
-      locale="de"
+      locale="en"
       selected={date}
       onChange={(date) => handleOnChange(date)}
       highlightDates={highlightWithRanges}
